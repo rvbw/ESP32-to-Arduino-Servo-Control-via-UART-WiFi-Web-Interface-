@@ -1,11 +1,11 @@
-# ESP32 to Arduino Servo Control via UART 🚀
+# ESP32 to Arduino Servo Control via UART
 
 ## Overview
 This project demonstrates communication between an ESP32 and an Arduino Uno using the UART protocol.  
 The ESP32 creates a WiFi Access Point and hosts a simple web interface with control buttons.  
 When a user presses a button, a command is sent to the Arduino, which then controls a micro servo motor and an LED.
 
-![Project Image](./image.png)
+![Project Image](Image/image.jpeg)
 
 ---
 
